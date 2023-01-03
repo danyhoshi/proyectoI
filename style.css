@@ -1,0 +1,39 @@
+body{
+    font-family: Georgia, "Times New Roman",Times, serif;
+    background-color: #ddd; 
+}
+
+h1{
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; 
+    font-size: 2.0em;
+    color: #1f1f1f
+}
+
+h2{
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; 
+    font-size: 1.5em;
+    color: #1f1f1f
+}
+
+p{
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; 
+    font-size: 1.0em;
+    color: #1f1f1f
+}
+p.codigo {
+    padding-left: 0.5em;
+    color:rgb(246, 246, 240);
+    font-family: Courier 'Courier New', Courier, monospace; 
+    font-size: 1.0em;
+}
+div {
+    flex-wrap: wrap;
+    margin-top: 0.5em;
+    margin-left: 1.0em;
+    box-sizing: border-box;
+    margin: left;
+    display: flex;
+    width: 50%;
+    height: 20%;
+    background-color: rgb(22, 21, 21);
+  }
